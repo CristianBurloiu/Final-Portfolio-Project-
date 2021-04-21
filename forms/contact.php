@@ -20,7 +20,6 @@
   $contact->smtp = array(
     'host' => 'mail.cristianbdavies.com',
     'username' => 'mail@cristianbdavies.com',
-    'password' => 'ubiQUi3do%ue$s89',
     'port' => '587'
   );
   */
